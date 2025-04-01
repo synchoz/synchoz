@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there Dima Vorobiov 👋</h1>
+<h1 align="center">Hi there, I'm Dima Vorobiov 👋</h1>
 
 - 🧲 A tech lover and a gamer. Autodidact, ambitious, and a team player!
 - 👨‍🎓 I am a graduate with a Bachelor of Science in Computer Science.
